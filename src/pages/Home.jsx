@@ -212,7 +212,7 @@ export default function Home() {
           </p>
 
           <p className="muted">
-            I’m AWE MOSES DAMILARE and i am the creative behind VisualsByDML. I believe
+            I’m AWE MOSES DAMILARE and I am the creative behind VisualsByDML. I believe
             the strongest films don’t just show what happened
             — they bring you back to how it felt. My approach
             pairs thoughtful storytelling with a cinematic eye
