@@ -23,6 +23,7 @@ description:
 details: 'Event videography · Highlight editing',
 duration: 'Video project',
 },
+
 {
 id: 'event',
 title: 'Event Film',
@@ -36,10 +37,11 @@ description:
 details: 'Event videography · Video editing',
 duration: 'Video project',
 },
+
 {
 id: 'final-ct',
 title: 'Creative Film',
-category: 'Commercial & Creative Films',
+category: 'Commercial & Brand Films',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=1400&q=85',
@@ -49,6 +51,7 @@ description:
 details: 'Creative production · Video editing',
 duration: 'Video project',
 },
+
 {
 id: 'lifestyle',
 title: 'Lifestyle Stories',
@@ -65,7 +68,7 @@ duration: 'Video project',
 {
 id: 'music-video',
 title: 'Music Video',
-category: 'Music & Performance',
+category: 'Music Videos',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=1400&q=85',
@@ -75,6 +78,7 @@ description:
 details: 'Music visuals · Video editing',
 duration: 'Video project',
 },
+
 {
 id: 'weddings',
 title: 'Wedding Stories',
