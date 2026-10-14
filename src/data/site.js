@@ -17,7 +17,7 @@ category: 'Events & Celebrations',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/event-1.MP4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791960384/Event-1-compressed.mp4',
 description:
 'A visual recap capturing the atmosphere, energy, and memorable moments of an event.',
 details: 'Event videography · Highlight editing',
@@ -31,7 +31,7 @@ category: 'Events & Celebrations',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1400&q=85',
-video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791959019/Event-compressed.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791961217/event.mp4',
 description:
 'A collection of event moments brought together through thoughtful editing and visual storytelling.',
 details: 'Event videography · Video editing',
@@ -45,7 +45,7 @@ category: 'Commercial & Brand Films',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/final%20ct%20.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791960572/final_ct.mp4',
 description:
 'A creative video project showcasing visual storytelling, editing, and attention to detail.',
 details: 'Creative production · Video editing',
@@ -59,7 +59,7 @@ category: 'Lifestyle & Creative Films',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/lifestyle.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791960655/lifestyle.mp4',
 description:
 'A lifestyle film focused on atmosphere, visual details, and the moments that make a story feel real.',
 details: 'Lifestyle film · Visual storytelling',
@@ -72,7 +72,7 @@ category: 'Music Videos',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/music%20video%20.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791960945/Music_Video-compressed.mp4',
 description:
 'A music-led visual project shaped by rhythm, mood, and expressive editing.',
 details: 'Music visuals · Video editing',
@@ -86,7 +86,7 @@ category: 'Weddings & Love Stories',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/weddings%20.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791961240/Weddings-compressed.mp4',
 description:
 'A wedding film celebrating meaningful moments, emotion, and the memories worth preserving.',
 details: 'Wedding videography · Cinematic editing',
