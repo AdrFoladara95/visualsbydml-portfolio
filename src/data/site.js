@@ -31,7 +31,7 @@ category: 'Events & Celebrations',
 year: '2026',
 image:
 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1400&q=85',
-video: '/videos/event.mp4',
+video: 'https://res.cloudinary.com/rgclaadf/video/upload/v1791959019/Event-compressed.mp4',
 description:
 'A collection of event moments brought together through thoughtful editing and visual storytelling.',
 details: 'Event videography · Video editing',
